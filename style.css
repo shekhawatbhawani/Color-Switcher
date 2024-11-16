@@ -1,0 +1,39 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.div {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+  border: solid aqua;
+  border-radius: 8px;
+}
+#div1 {
+  background-color: red;
+}
+#div2 {
+  background-color: black;
+}
+#div3 {
+  background-color: blue;
+}
+#div4 {
+  background-color: lime;
+}
+#div5 {
+  background-color: yellow;
+}
+#div6 {
+  background-color: green;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
